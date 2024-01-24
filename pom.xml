@@ -20,5 +20,8 @@
             <version>3.8.1</version>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>project08.jar</finalName>
+    </build>
 
 </project>

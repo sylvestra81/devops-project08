@@ -21,7 +21,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>project08.jar</finalName>
+        <finalName>project08</finalName>
     </build>
 
 </project>
